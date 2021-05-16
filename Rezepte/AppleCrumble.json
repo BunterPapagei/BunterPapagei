@@ -23,9 +23,11 @@
 			"Zutat":"Vanillezucker"},
 		{	"Menge":"etwas",
 			"Zutat":"Vanillesoße"},
+		],
 	"Zutatenschonvorhanden": [
 		{	"Menge":"1Prise",
-			"Zutat":"Salz"},
+			"Zutat":"Salz"},	
+		],
 	"Zubereitungsschritte": [
 			"Für den Streuselteig Butter oder Margarine zerlassen. Form fetten. Backofen vorheizen, Backofen auf 180°C Umluft vorheizen",
 			"Äpfel schälen, achteln und in kleine Stücke schneiden. Das Obst in der Auflaufform verteilen",
