@@ -1,0 +1,82 @@
+{
+	"Rezeptname": "Rotes Linsen dal",
+	"BildnameohneEndung": "",
+	"backen": "nein",
+	"fleisch": "nein",
+	"fisch": "nein",
+	"snacks": "nein",
+	"spicy": "nein",
+	"vegetarisch": "ja",
+	"Zeit": " 25 min",
+	"Schwierigkeit": "1",
+	"Portionen": "4",
+	"ZutatenEinkaufsliste": [{
+			"Menge": "2",
+			"Zutat": "Zwiebeln"
+		},
+		{
+			"Menge": "4",
+			"Zutat": "Knoblauchzehen"
+		},
+		{
+			"Menge": "2 TL",
+			"Zutat": "Ingwer, gemahlen"
+		},
+		{
+			"Menge": "1 TL",
+			"Zutat": "Kurkuma"
+		},
+		{
+			"Menge": "1 TL",
+			"Zutat": "Koriander"
+		},
+		{
+			"Menge": "1 TL",
+			"Zutat": "Kreuzkümmel"
+		},
+		{
+			"Menge": "1 TL",
+			"Zutat": "rotes Paprikapulver"
+		},
+		{
+			"Menge": "1 TL",
+			"Zutat": "Garam Masala /anderes Currypulver"
+		},
+		{
+			"Menge": "300g",
+			"Zutat": "rote Linsen"
+		},
+		{
+			"Menge": "780ml",
+			"Zutat": "Gemüsebrühe"
+		},
+		{
+			"Menge": "250ml",
+			"Zutat": "Kokosnussmilch"
+		},
+		{
+			"Menge": "250ml",
+			"Zutat": "passierte Tomaten"
+		},
+		{
+			"Menge": "2-3 EL",
+			"Zutat": "Limetten- oder Zitronensaft"
+		},
+		{
+			"Menge": "4-6 EL",
+			"Zutat": "Joghurt"
+		},
+		{
+			"Menge": "2 Tassen",
+			"Zutat": "Reis"
+		}
+	],
+	"Zutatenschonvorhanden": [],
+	"Zubereitungsschritte": [
+		"Das Kokosöl in einer Pfanne oder einem Topf erhitzen. Die gehackten Zwiebeln dazugeben und 2-3 Minuten glasig dünsten. Dann den Knoblauch und Ingwer hinzugeben und eine weitere Minute anbraten, bis es gut duftet. Zuletzt die Gewürze hinzugeben und einige Sekunden anschwitzen, damit sich die Aromen entfalten.",
+		"Die Linsen in ein feines Sieb geben und unter fließendem kaltem Wasser abspülen. Dann zur Zwiebelmischung in die Pfanne geben, mit der Gemüsebrühe aufgießen, umrühren und zum Kochen bringen. Zugedeckt 8-10 Minuten köcheln lassen, oder bis die Linsen den größten Teil der Flüssigkeit aufgenommen haben.",
+		"Dann Kokosmilch und passierte Tomaten hinzufügen und weitere 5-10 Minuten köcheln lassen, oder bis die Linsen gar sind. (Wenn die Sauce zu dickflüssig ist, etwas mehr Brühe oder Kokosmilch hinzufügen, bis die gewünschte Konsistenz erreicht ist). Mit Salz, Pfeffer und Limettensaft abschmecken.",
+		"Das Dal mit Joghurt und Reis servieren",
+		"Guten Appetit! Das Rezept stammt aus <a href='https://biancazapatka.com/de/rotes-linsen-dal/' target='_blank' rel='noopener noreferrer'>www.biancazapatka.com/de/rotes-linsen-dal/</a>."
+	]
+}
